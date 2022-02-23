@@ -1,2 +1,2 @@
-# merge-commit-test2
+# merge-commit-test3
 Testing merge commits
